@@ -1,0 +1,36 @@
+Java é uma linguagem de programação orientada a OBJETOS, DESENVOLVIDO NA DÉCADA DE 90 pela empresa Sun Microsystems e adquirida pela oracle em 2008
+Desde seu lançamento em maio de 1995, a plataforma JAVA foi adotada mais rapidamente do que qualquer outra linguagem na história da computação
+Torno-se popular pelo seu uso na internet e está presente em navegadores, programas e  jogos de computador, celular, calculadoras e etc.
+
+Características do JAVA:
+Diferente das linguagens de programação compiladas (a compilação do código se dá ainda em tempo de desenvolvimento), a liguagem JAVA é compilada 
+para um bytecode que é interpretado por uma máquina virtual.
+
+Programa JAVA é um programa interpretada:
+
+Programa JAVA  -> Compilador -> Programa Class -> JVM (Maquina Virtual que vai interpretar -> Execução
+Escreve em Java e vai salvar .JAVA -> vai ser compilado (vai transformar o arquivo em outro .CLASS) -> 
+a máquina JVM vai interpretar o programa em linguagem de máquina e assim para que o sistema operacional consiga ler e interpretar o que foi escrito)
+
+Plataforma X Linguagem:
+
+- A Linguagem de programação JAVA é a linguagem convencioanl da plataforma JAVA, mas não é a sua única linguagem.
+- Uma grande vantagem da plataforma é não estar presa a um único sistema operacional ou hardware, pois seus programas rodam através de uma
+máquina virtual que pode ser emulada. (Escreva uma vez e execute em qualquer lugar)
+- A Plataforma é dividida em:
+Java SE (é a base da plataforma e trás com ela algumas classes)
+Java EE (é a mais conhecida que cuida do desenvolvimento WEB)
+Java ME (é a que cuida do desenvolvimento dos desenvolvimentos móveis e embarcados 
+(sistema q roda em um dispositivo e que tem uma função própria, exemplo calculadora, urna eletrônica))
+
+Fases da Execução JAVA:
+- Escrevemos o código fonte (arquivo com a extensão .java)
+- Utilizamos o JDK para compilar o seu código fonte e gerar o arquivo bytecode (arquivo com a extensão .class)
+- Para executar o seu programa, a JVM lê o arquivo compilado (.class) e as bibliotecas padrões do JAVA que estão no JRE
+
+JDK: Kit de desenvolvimento JAVA
+JRE: Que tem as classes padrões e JVM (Só para rodar)
+JVM: Maquina Virtual que vai interpretar
+
+
+
